@@ -1,3 +1,7 @@
+## Prerequisites
+
+Please make sure you have a recent version of Python3 installed locally.
+
 ## Usage
 
 To start the api, please use the following cli command where ```some_port``` is any port you want the api to be served on.
